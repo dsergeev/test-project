@@ -1,0 +1,1641 @@
+{
+	"strings": {
+		"reports": {
+			"proposal": {
+				"rebates": "Rebates",
+				"na": "n/a",
+				"taxreturn": "Tax Return",
+				"year": "Year",
+				"tax": "Tax",
+				"kw": "kW",
+				"kwh": "kWh"
+			}
+		},
+		"settings": {
+			"localization": {
+				"en_US": "English",
+				"ru_RU": "Russian",
+				"de_DE": "German",
+				"no_NO": "Norwegian",
+				"ca_ES": "Catalan",
+				"pt_PT": "Portuguese",
+				"es_ES": "Spanish",
+				"lv_LV": "Latvian",
+				"fr_FR": "French"
+			},
+			"customization": {
+				"systemLanguage": {
+					"english": "English",
+					"russian": "Russian",
+					"german": "German",
+					"norwegian": "Norwegian",
+					"catalan": "Catalan",
+					"portuguese": "Portuguese",
+					"spanish": "Spanish",
+					"latvian": "Latvian"
+				},
+				"buisnessModel": {
+					"currency": {
+						"euro": "Euro",
+						"usDollars": "US Dollars"
+					},
+					"section": {
+						"savings": "Savings Calculation Settings",
+						"hardware": "Hardware Default Settings"
+					},
+					"label": {
+						"pvModule": "Default PVModule:",
+						"calculateFeedInSavings": "Calculating Feed-in Savings:",
+						"defaultPPW": "Default Price per watt",
+						"rebateAmount": "Default Rebate Amount:",
+						"simulation": "Simulation settings",
+						"rowGap": "Row gap",
+						"northTiltAngle": "North tilt angle",
+						"southTiltAngle": "South tilt angle",
+						"type": "Type",
+						"applydefaultRebateAmount": "Apply default rebate amount",
+						"allowToChangeInterestRate": "Allow to change interest rate",
+						"resetEnergySwitch": "Reset energy credit",
+						"taxCredit": "Tax Credit Rate:",
+						"loanOptions": "Loan Options",
+						"singleTilt": "Single tilt",
+						"simulationOverrideSystemLosses": "Override system losses:",
+						"applyRebates": "Apply Rebates:",
+						"dualTilt": "Dual tilt",
+						"annual": "Annual",
+						"feedInTariff": "Default Feed-in tariff:",
+						"applyDefaultFeedIn": "Apply default feed-in tariff",
+						"currency": "Currency",
+						"applyTacCreditRate": "Apply tax credit rate",
+						"inflationRate": "Inflation rate",
+						"rowSpacing": "Row spacing:",
+						"systemLanguage": "System Language",
+						"interestRate": "Interest rate",
+						"defaultRackingSettings": "Default racking settings",
+						"columnSpacing": "Column spacing:",
+						"orientation": "PV module orientation:",
+						"hourADay ": "Hour of Day",
+						"hourADay": "hour of day",
+						"inverter": "Default inverter:",
+						"tiltAngle": "Tilt angle",
+						"taxRate": "Tax rate",
+						"feedInCalcModel": "Feed in calculation model",
+						"columnGap": "Column gap",
+						"month": "Month",
+						"applyTaxCredit": "Tax Credit:",
+						"loanTerms": "Loan terms",
+						"dayOfMonth": "day of month",
+						"slopedRoof": "Residential (sloped roof)",
+						"daily": "daily",
+						"monthly": "monthly",
+						"measurementSystem": "Measurement System",
+						"avaible": "Available",
+						"defaultAddress": "Default address:",
+						"showRebateInPercents": "Rebate in percents"
+					},
+					"measurementSystem": {
+						"metric": "Metric",
+						"imperial": "Imperial"
+					},
+					"feedInModel": {
+						"sell": "Sell Excess Energy",
+						"buyout": "Buyout Excess Energy"
+					}
+				},
+				"title": {
+					"systemSettings": "System settings",
+					"savingsCalcSettings": "Savings calculation settings",
+					"proposalDocumentSettings": "Proposal document settings",
+					"buisnessModel": "Business Model",
+					"proposalDocument": "Proposal Document",
+					"systemCustomization": "System Customization"
+				},
+				"proposalDocument": {
+					"proposalDefaultTitle": "Proposal default title",
+					"showLogo": "Show logo:",
+					"showLayoutImageOnProposal": "Show layout image on proposal cover",
+					"ShowLayoutImage": "Show layout image:",
+					"showLogoOnProposal": "Show logo on proposal",
+					"title": "Title:",
+					"defaultTitleLength": "%% symbols"
+				},
+				"hardware": {
+					"cancel": "Cancel",
+					"rackingSettings": "Racking settings",
+					"someModules": "The following PVModules were not deleted because they are used in your projects:",
+					"a_c": "a_c",
+					"addInverterButton": "ADD INVERTER",
+					"deleteCustomModule2": "Are you sure you want to delete this module?",
+					"specificationURL": "specificationURL",
+					"numberOfPhases": "Number of phases",
+					"unspecifiedPrice": "Unspecified price",
+					"impp": "Maximum power point current (Impp)",
+					"price": "QTY/Price",
+					"inverters": "Inverters",
+					"inverterData": "Inverter electrical data",
+					"model": "Model",
+					"inverterBlockError": "Uploaded file is too large. Max file size 10 kB",
+					"height": "Height",
+					"deleteCustomModule": "Delete Custom module",
+					"vmpptmin2": "Input maximal DC Voltage per MPPT (Vmpptmax)",
+					"i_L_ref": "i_L_ref",
+					"moduleData": "Module electrical data",
+					"c0": "c0",
+					"defaultObstruction": "Default obstruction setback",
+					"c1": "c1",
+					"c2": "c2",
+					"nameplatePower": "Nominal Power",
+					"c3": "c3",
+					"acVoltage": "AC voltage (Vac)",
+					"isDefault": "Is Default",
+					"InverterTitle": "Add Or Remove Inverters to my inverter list",
+					"a_ref": "a_ref",
+					"avaibleModules": "Available modules",
+					"pnt": "Power consumption at night (Pnt)",
+					"numberOfMpptInputs": "Number of independent MPPT",
+					"browse": "BROWSE",
+					"displayName": "Display Name",
+					"defaultRoof": "Default roof setback",
+					"save": "Save",
+					"manufacturerShortName": "Manufacturer's short name",
+					"someInverters": "The following Inverters were not deleted because they are used in your projects:",
+					"addManufacturer": "Add Manufacturer",
+					"createdOn": "Created On",
+					"manufacturer": "Manufacturer",
+					"search": "Search...",
+					"cellsInString": "Cells in string",
+					"cellCount": "Cells per module",
+					"pdco": "Maximum DC power (Pdco)",
+					"PVModuleTitle": "Add Or Remove PVModules to my module list",
+					"deleteCustomInverter": "Delete Custom inverter",
+					"pptc": "pptc",
+					"gammaPmpp": "Temperature coefficient of the maximum output power (TK Pmpp)",
+					"close": "Close",
+					"idcmax": "Maximum DC input current (Idcmax)",
+					"addModuleButton": "ADD MODULE",
+					"noBlock": "No custom block",
+					"inverterBlock": "Inverter Block",
+					"wereDeleted": "All selected items were deleted",
+					"faveInverters": "Favorite inverters",
+					"closeWindow2": "Are you sure you want to close this window? All changes will be discard",
+					"cellEfficiency": "Cells efficiency",
+					"dropFileToBlock": "Drop file here or click on browse button",
+					"ACCapacityPac": "AC output power (Pac)",
+					"width": "Width",
+					"isc": "Short circuit current (Isc)",
+					"manufacturerFullName": "Manufacturer's full name",
+					"idcmaxdisplay": "idcmaxdisplay",
+					"acMaxCurrent": "Maximum AC output current (Iacmax)",
+					"vmpptmin": "Input minimal DC Voltage per MPPT (Vmpptmin)",
+					"pstc": "pstc",
+					"avaibleInverters": "Available inverters",
+					"iscTempCoefficient": "Temperature coefficient of the short-circuit current (TK Isc)",
+					"closeWindow": "Close window",
+					"deleteManufacturer2": "Are you sure you want to delete this manufacturer?",
+					"cellTechnology": "Cell technology",
+					"addInverter": "Add Custom Inverter",
+					"moduleProference": "Electrical parameters",
+					"neutralRequired": "neutralRequired",
+					"create": "Create",
+					"cannotDelete": "Used items cannot be deleted",
+					"add": "Add",
+					"mechanicalSection": "Mechanical section",
+					"ACCapacity": "AC output power",
+					"deleteCustomInverter2": "Are you sure you want to delete this inverter?",
+					"deleteManufacturer": "Delete Custom manufacturer",
+					"updateInverter": "Update Custom Inverter",
+					"vdco": "Maximum DC input voltage open circuit (Vdco)",
+					"modules": "Modules",
+					"addSelected": "ADD SELECTED",
+					"ptcPowerRating": "ptcPowerRating",
+					"adjust": "adjust",
+					"name": "Name",
+					"i_o_ref": "i_o_ref",
+					"inverterProference": "Inverter Preference",
+					"vmpp": "Maximum power point voltage (Vmpp)",
+					"eff4": "eff4",
+					"pmax": "DC input Power (Pdc)",
+					"noct": "Normal Operating Cell Temperature (noct)",
+					"eff3": "eff3",
+					"eff2": "eff2",
+					"eff1": "eff1",
+					"eff0": "eff0",
+					"vdcmax": "Maximum DC input voltage (Vdcmax)",
+					"cecEfficiency": "cecEfficiency",
+					"createCustom": "CREATE CUSTOM",
+					"myModules": "My Modules",
+					"currentTempCoeff": "currentTempCoeff",
+					"update": "Update",
+					"description": "Description",
+					"addPVModule": "Add Custom PVModule",
+					"voc": "Open circuit voltage (Voc)",
+					"faveModules": "Favorite modules",
+					"title": "Hardware",
+					"pso": "pso",
+					"delete": "Delete",
+					"remove": "Remove",
+					"validValues": "Valid values",
+					"r_sh_ref": "r_sh_ref",
+					"vocTempCoefficient": "Temperature coefficient of the open circuit voltage (TK Voc)",
+					"myInverters": "My Inverters",
+					"ok": "Ok",
+					"cellTechnologyType": {
+						"monocrystalline": "Monocrystalline",
+						"polycrystalline": "Polycrystalline",
+						"other": "Other"
+					},
+					"prices": {
+						"popup": {
+							"singlePrice": "Single price",
+							"buttons": {
+								"savePrices": "Save Prices",
+								"add": "Add",
+								"cancel": "Cancel",
+								"addBulk": "Add bulk price",
+								"addPrice": "Add price"
+							},
+							"price": "Price",
+							"bulkPrice": "Bulk price",
+							"qty": "Quantity",
+							"confirmation": {
+								"buttons": {
+									"continue": "Continue",
+									"continueWithSave": "Save and continue"
+								},
+								"title": "Unsaved changes",
+								"message": "You have unsaved changes that will be lost. Continue?"
+							},
+							"title": "Module prices"
+						},
+						"toastr": {
+							"success": "Module prices have been updated",
+							"error": "Failed to update prices"
+						}
+					},
+					"r_s": "r_s",
+					"clear": "Clear",
+					"addModule": "Add Custom module",
+					"specUrl": "specUrl",
+					"append": "Append",
+					"updateModule": "Update Custom PVModule",
+					"uploadPublicInverter": {
+						"title": "Upload Public Inverters",
+						"dragAndDrop": "Drag and drop file here or",
+						"dropFile": "Drop file here",
+						"browse": "BROWSE",
+						"uploadedInverters": "Uploaded inverters: ",
+						"failedInverters": "Failed inverters:",
+						"displayOnlyFailedInverters": "Display only failed inverters",
+						"row": "Row",
+						"manufacturer": "Manufacturer",
+						"model": "Model",
+						"status": "Status",
+						"failed": "Failed: "
+					},
+					"uploadPublicPVModules": {
+						"title": "Upload Public PVModules",
+						"dragAndDrop": "Drag and drop file here or",
+						"dropFile": "Drop file here",
+						"browse": "BROWSE",
+						"uploadedInverters": "Uploaded modules: ",
+						"failedInverters": "Failed modules: ",
+						"displayOnlyFailedInverters": "Display only failed modules",
+						"row": "Row",
+						"manufacturer": "Manufacturer",
+						"model": "Model",
+						"status": "Status",
+						"failed": "Failed: "
+					}
+				}
+			},
+			"administration": {
+				"tab": {
+					"localization": {
+						"popup": {
+							"description": "Changes for your current (%%) localization are not saved. If you will switch localization changes will be lost. Please confirm your action.",
+							"title": "Confirmation"
+						},
+						"title": "Localization Management",
+						"dropdown": "Select localization",
+						"table": {
+							"defaultLocale": "Default text",
+							"oldlocale": "Localized file",
+							"newLocale": "Localized file",
+							"key": "Key"
+						}
+					},
+					"userAccount": {
+						"label": {
+							"checkbox": "Show users with expired trial",
+							"allBA": "All business accounts",
+							"title": "User Account",
+							"dropdownName": "Business accounts:",
+							"table": {
+								"lastLogin": "Last login",
+								"contactInfo": "Contact Information",
+								"projectCreated": "Projects created",
+								"userAccount": "User Account",
+								"businessAccount": "Business Account",
+								"active": "Active",
+								"confirmed": "Confirmed",
+								"enabled": "Enabled:",
+								"loginCount": "Login count",
+								"createDate": "Created date"
+							}
+						}
+					},
+					"businessAccount": {
+						"label": {
+							"checkbox": "Show users with expired trial",
+							"title": "Business Account",
+							"table": {
+								"lastLogin": "Last login",
+								"address": "Address",
+								"phoneNumber": "Phone number",
+								"projects": "Projects",
+								"versions": "Versions",
+								"leads": "Leads",
+								"trialExpiration": "Trial expiration",
+								"subscriptionStart": "Subscription start",
+								"nextChargeDate": "Next charge date",
+								"refLink": "Referral link",
+								"users": "Users",
+								"createDate": "Created date",
+								"setSubscription": {
+									"title": "Set subscription",
+									"startDate": "Subscription start date: ",
+									"nextChargeDate": "Next charge date: ",
+									"maxUsers": "Max users: ",
+									"cancel": "Cancel",
+									"update": "Update"
+								}
+							}
+						}
+					}
+				},
+				"pageInfo": "Administration Page"
+			},
+			"profile": {
+				"button": {
+					"change": "Change password",
+					"changing": "Changing"
+				},
+				"section": {
+					"changePassword": "Change Password"
+				},
+				"label": {
+					"newPasswordConfirm": "Confirm password",
+					"firstName": "First name",
+					"lastName": "Last name",
+					"phoneNumber": "Phone number",
+					"displayName": "Display name",
+					"newPassword": "New password",
+					"email": "Email",
+					"currentPassword": "Current password"
+				},
+				"title": "Profile info"
+			},
+			"account": {
+				"generalSettings": {
+					"button": {
+						"chooseFile": "Choose File",
+						"upload": "Upload",
+						"remove": "Remove"
+					},
+					"label": {
+						"maxDimensions": "You can upload images up to 1200x1200.",
+						"phoneNumber": "Phone number",
+						"address": "Address",
+						"companyLogo": "Company logo",
+						"companyName": "Company name",
+						"noLogo": "No logo",
+						"noFile": "No file chosen"
+					},
+					"title": "Genetal Settings",
+					"error": {
+						"companyLogoError1": "Please select 1 file",
+						"errorLoading": "Error loading image:",
+						"companyLogoError2": "Please select correct image file(.jpeg, .jpg, .png)",
+						"companyLogoError3": "File size should not be larger than",
+						"companyLogoError4": "kB",
+						"loading": "Loading",
+						"companyLogoError5": "Image dimensions should not be larger than 1200x1200 pixels"
+					}
+				},
+				"title": "Account Settings",
+				"accountSettigs": {
+					"button": {
+						"add": "Add",
+						"cancel": "Cancel",
+						"changeUserPassword": "Change User Password",
+						"apply": "Apply",
+						"addUser": "Add user",
+						"change": "Change",
+						"editUser": "Edit User",
+						"delete": "Delete",
+						"modify": "Modify",
+						"resendInvintation": "Resend Invintation",
+						"disable": "Disable",
+						"enableUser": "Enable User",
+						"disableUser": "Disable User",
+						"OK": "Ok",
+						"close": "Close",
+						"Invite": "Invite"
+					},
+					"popupLogo": {
+						"label": {
+							"userInviteResend": "User invitation has been resent to his email account",
+							"saveUserEdit": "User data has been updated",
+							"addUserNotify": "New User account has been created. User will recieve a notification email with further instructions",
+							"addUserNoNotify": "New User account has been created",
+							"inviteUser": "User have been invited and will recieve further instructions on his email",
+							"changePassword": "User password has been changed"
+						}
+					},
+					"mainTitle": "Account settings",
+					"label": {
+						"lastName": "Last name",
+						"lastLogin": "Last logged in",
+						"no": "No",
+						"role": "Role",
+						"allUsers": "All Users",
+						"addUser": "Add new user",
+						"searching": "Searching",
+						"isActive": "Is Active",
+						"designerInfo": "Designer / PVStream Starter / Monthly Subscription",
+						"search": "Search...",
+						"password": "Password",
+						"sendEmail": "Send notification email",
+						"deleteDisableUserDescription": "Would you like to disable user account or completly delete it from the system. After user account will be completly removed and all historical associated with user account will be also lost.",
+						"adminInfo": "Admin / PVStream Starter / Monthly Subscription",
+						"nickname": "Nickname",
+						"confirmPassword": "Confirm password",
+						"userEmail": "User email",
+						"disabled": "Disabled",
+						"deleteUserAccount": "Delete user account",
+						"inviteUser": "Invite user",
+						"email": "Email",
+						"owner": "Owner",
+						"notifyUser": "Notify new user",
+						"yes": "Yes",
+						"active": "Active",
+						"deleteDisableUser": "Delete/Disable user account",
+						"designer": "Designer",
+						"userName": "User name",
+						"users": "Users",
+						"changePassword": "Change Password",
+						"currentPassword": "Current password",
+						"firstName": "First name",
+						"systemAdmin": "SystemAdmin",
+						"phoneNumber": "Phone number",
+						"userAccount": "User Account",
+						"deleteUser": "Would you like to delete user account from the system. After user account will be completly removed and all historical associated with user account will be also lost.",
+						"inviteUserDescription": "Invited user will recieve an email with further instructions",
+						"workspaceAdmin": "WorkspaceAdmin",
+						"uploadDisclaimer": "You can upload images up to 256x256.",
+						"projectsCount": "Project count",
+						"loginCount": "Login count",
+						"totalTimeSpent": "Total time spent"
+					},
+					"title": "Account Preferences"
+				}
+			},
+			"billing": {
+				"button": {
+					"cancelSub": "CANCEL SUBSCRIPTION"
+				},
+				"canceled": "Canceled",
+				"popup": {
+					"button": {
+						"cancel": "CANCEL SUBSCRIPTION",
+						"canceling": "CANCELING..."
+					},
+					"description": "If you cancel, you'll be downgraded on",
+					"title": "Cancel subscription?",
+					"error": {
+						"apiError": "Something went wrong! Please try again or contact our support.",
+						"alreadyCanceled": "The subscription is already canceled!"
+					},
+					"label1": "Type",
+					"label2": "CANCEL",
+					"label3": "to cancel subscription"
+				},
+				"nextAmount": "Next payment amount",
+				"subPlan": "Your subscription plan",
+				"monthly": "Monthly",
+				"active": "Active",
+				"plan": "Plan",
+				"suspended": "Suspended",
+				"nextDate": "Next payment date",
+				"billing": "Billing"
+			}
+		},
+		"common": {
+			"button": {
+				"cancel": "Cancel",
+				"add": "Add",
+				"applying": "Applying...",
+				"discard": "Discard",
+				"no": "No",
+				"apply": "Apply",
+				"yes": "Yes",
+				"change": "Change",
+				"save": "Save",
+				"changing": "Changing...",
+				"done": "Done",
+				"price": "Price",
+				"create": "Create",
+				"close": "Close",
+				"export": "Export",
+				"send": "Send",
+				"dashboard": "Dashboard"
+			},
+			"measurmentSystem": {
+				"squareMeter": "m²",
+				"kiloWattHour": "kWh",
+				"feet": "'",
+				"euro": "EUR",
+				"meter": "m",
+				"dollars": "USD",
+				"meters": "meters",
+				"inches": "inches",
+				"pixels": "pixels",
+				"kiloWatt": "kW",
+				"squareFeet": "sq.ft",
+				"wattShort": "W",
+				"inch": "\"",
+				"watt": "Watt",
+				"pixel": "px"
+			},
+			"userInfo": {
+				"firstName": "First name",
+				"lastName": "Second name",
+				"phoneNumber": "Phone number",
+				"role": "Role",
+				"companyEmail": "Company email",
+				"displayName": "Display name",
+				"companyName": "Company name",
+				"userName": "User name",
+				"email": "Email"
+			},
+			"orientation": {
+				"portrait": "Portrait",
+				"landscape": "Landscape"
+			},
+			"months": {
+				"short": {
+					"jul": "Jul",
+					"oct": "Oct",
+					"feb": "Feb",
+					"apr": "Apr",
+					"jun": "Jun",
+					"aug": "Aug",
+					"dec": "Dec",
+					"may": "May",
+					"nov": "Nov",
+					"jan": "Jan",
+					"mar": "Mar",
+					"sep": "Sep"
+				}
+			},
+			"header": {
+				"button": "UPGRADE PLAN",
+				"expiresSoon": {
+					"message": "Your trial expires in %% days"
+				},
+				"help": {
+					"button": "Help",
+					"popup": {
+						"sendSuccess": {
+							"message": "Thanks for your question. PVStream team will contact you immediately. We will be glad to assist you."
+						},
+						"title": "Need help?",
+						"message": "Type your question and we will contact you soon"
+					}
+				},
+				"expiredTrial": {
+					"message": "Your trial expired!"
+				}
+			},
+			"racking": {
+				"tooltip": {
+					"singleTilt": "Single tilt system",
+					"slopedRoof": "Residential (sloped roof)",
+					"dualTilt": "Dual tilt system"
+				},
+				"type": {
+					"singleTilt": "Single Tilt",
+					"residential": "Residential",
+					"dualTilt": "Dual Tilt",
+					"slopedRoof": "Residential (sloped roof)"
+				}
+			},
+			"error": {
+				"max": "Maximum value is %required_length%",
+				"length": "At least 8 characters",
+				"invalidPassword": "Invalid password...",
+				"error": "error",
+				"required": "Required",
+				"minLenght": "Minimum length is %required_length%",
+				"lowerChar": "At least 1 lowercase character",
+				"number": "At least 1 number character",
+				"wrongCurrentPassword": "Wrong current password",
+				"min": "Minimum value is %required_length%",
+				"maxLenght": "Maximum length is %required_length%",
+				"passwordError": "Password should contain letters(small and capital) and numbers",
+				"validEmail": "Valid email required",
+				"passwordEqualError": "Password should be equal",
+				"userExist": "User with email already registered!",
+				"upperChar": "At least 1 uppercase character",
+				"invalidUserOrPassword": "Invalid username or password"
+			},
+			"battery": {
+				"type": {
+					"acid": "Acid",
+					"liIon": "Li-Ion"
+				}
+			},
+			"export": {
+				"proposal": {
+					"fileName": "proposal-"
+				},
+				"common": {
+					"params": {
+						"layout": "Layout",
+						"titleBlock": {
+							"title": "Title Block",
+							"dropdown": {
+								"standart": "Standart",
+								"none": "None"
+							}
+						},
+						"checkbox": {
+							"stringNames": "Display string names",
+							"inverterNames": "Display inverter names",
+							"moduleTilt": "Display module tilt arrows"
+						},
+						"title": "Title",
+						"paperSize": "Paper Size"
+					},
+					"error": {
+						"message": "Please add a title"
+					}
+				},
+				"design": {
+					"fileName": "design-"
+				},
+				"electrical": {
+					"fileName": "Electrical-design-",
+					"errorMessage": "Export electrical design failed! Please try again or contact our support.",
+					"title": "Export electrical design to .pdf"
+				},
+				"mechanical": {
+					"fileName": "Mechanical-design-",
+					"errorMessage": "Export mechanical design failed! Please try again or contact our support.",
+					"title": "Export mechanical design to .pdf"
+				},
+				"sld": {
+					"fileName": "SLD-",
+					"errorMessage": "Export SLD failed! Please try again or contact our support.",
+					"title": "Export SLD to .pdf"
+				}
+			},
+			"object": {
+				"type": {
+					"roof": "Roof",
+					"treeobstruction": "Tree",
+					"obstacle": "Obstacle"
+				}
+			}
+		},
+		"browserCheck": {
+			"button": "Got it!",
+			"text": "Your {{deviceDetectorService.browser}}(version {{deviceDetectorService.browser_version}}) is unsupported browser version. </br> Please use PVStream with supported browsers: Chrome version {{ALLOWED_MIN_BROWSER_VERSIONS.Chrome}} or later or Firefox version {{ALLOWED_MIN_BROWSER_VERSIONS.Firefox}} or later.",
+			"title": "Increase annotation font size"
+		},
+		"Keys": "Default (en_US)",
+		"localization_en_US_to_fr_FR": "",
+		"project": {
+			"bom": {
+				"file": {
+					"button": {
+						"delete": "Delete",
+						"browse": "Browse"
+					},
+					"dropOrClick": "Drop file here or click browse button.",
+					"attach": "Attach file:",
+					"dropHere": "Drop file here",
+					"uploadedFile": "File '%%' is uploaded"
+				},
+				"post": {
+					"button": {
+						"post": "Post order to TecSostenible",
+						"posting": "Posting order..."
+					},
+					"contactPaveda1": "El precio que te damos para los módulos fotovoltaicos está basado en un pedido mínimo de 2 pallets. Si tu pedido es de un contenedor o más, te podemos mejorar el precio considerablemente. Si, por el contrario, tu pedido es de un solo pallet, los costes de transporte harán subir unos 0,05 a 0,06 u20ac el precio del Wp de tus módulos.",
+					"contactPaveda2": "Cualquier duda:",
+					"popup": {
+						"success": "Bill of Material has been submitted to TecSostenible",
+						"submitFirstTime": "Submit Bill of Material to TecSostenible?",
+						"confirmation": "This order has been already posted to TecSostenible. Are you sure you want to post it again?"
+					},
+					"contactPaveda3": "Gracias.",
+					"legal1": "By accessing, you confirm that you have read and accepted the",
+					"legal2": "Terms and conditions",
+					"alreadyPosted": "This order has been already posted",
+					"postSuccess": "Submitted successfully"
+				},
+				"racking": {
+					"totalAmount": "Total amount:",
+					"tax": "Tax",
+					"totalWithTax": "Total amount with tax"
+				},
+				"title": "Bill of material",
+				"table": {
+					"originalQTY": "Original QTY",
+					"unitPrice": "Unit price",
+					"totalPrice": "Total price",
+					"QTY": "QTY",
+					"model": "Model",
+					"packageSize": "Package size",
+					"totalCount": "Total Count",
+					"partType": "Part type",
+					"manufacturer": "Manufacturer"
+				}
+			},
+			"projectInfo": {
+				"button": {
+					"saving": "Saving",
+					"save": "Save changes",
+					"create": "Create project"
+				},
+				"pageInfo": "New Project Page",
+				"label": {
+					"address": "Address",
+					"phoneNumber": "Phone/e-mail",
+					"latitude": "Latitude:",
+					"name": "Project Name",
+					"customer": "Customer",
+					"coordinated": "Coordinates",
+					"longitude": "Longitude:"
+				},
+				"title": "Create New Project",
+				"error": {
+					"message": "You should select valid address"
+				}
+			},
+			"design": {
+				"layoutRoofAzimuth": {
+					"east": "E",
+					"south": "S",
+					"north": "N",
+					"west": "W"
+				},
+				"tooltip": {
+					"gridSettings": "Grid settings",
+					"createNewVersion": "Create new version",
+					"decreaseAnnotation": "Decrease annotation font size",
+					"orthoMode": "Switch on/off orthogonal drawing mode",
+					"changeColor": "Change annotation font color",
+					"roofHeight": "Roof mean height",
+					"deleteCurrentVersion": "Delete current version",
+					"annotations": "Annotations",
+					"roofAzimuth": "Roof slope azimuth",
+					"paste": "Paste copied objects",
+					"drawRoof": "Draw new roof",
+					"delete": "Delete selected object",
+					"showAddress": "Show address on map",
+					"drawKeepOut": "Draw new obstacle",
+					"increaseAnnotation": "Increase annotation font size",
+					"toggleShadowZones": "Toggle shadow zones",
+					"autoSnap": "Switch on/off automatic snapping",
+					"copy": "Copy selected object",
+					"toggleDimensions": "Toggle dimensions",
+					"setback": "Setback from edges",
+					"toggleDesignerView": "Toggle designer view",
+					"copyCurrentVersion": "Copy current version",
+					"removePanels": "Remove all panels",
+					"editCurrentVersion": "Edit current version",
+					"sld": "SLD",
+					"exportDesign": "Export electrical design",
+					"exportToExcel": "Export electrical design to Excel",
+					"insertAnnotations": "Insert text annotations",
+					"roofSlope": "Roof slope",
+					"changeFont": "Change annotation font",
+					"placePanels": "Place panels on roof",
+					"jumpToStart": "Jump to project address",
+					"generateElectricalDesign": "Generate electrical design",
+					"drawInverter": "Draw Inverter"
+				},
+				"electrical": {
+					"navigation": {
+						"modulesPerString": "modules per string",
+						"addModules": "Please add <b> %% </b> modules",
+						"strings": "strings identified",
+						"addModules2": "Please either add <b> %% </b> modules or",
+						"extraModules": "extra modules.",
+						"removeModules": "remove <b> %% </b> modules to have complete strings",
+						"modules": "modules selected"
+					},
+					"inverters": {
+						"inverterDisplayName": "Inverter",
+						"noInvertersAdded3": "or place inverters manually",
+						"noInvertersAdded2": "For start your electrical design please choose automatic generation,",
+						"noInvertersAdded": "There are no inverters added in your design."
+					},
+					"params": {
+						"acVoltage": "AC Voltage:",
+						"acCurrent": "AC Current:",
+						"wiringLength": "Wiring length:",
+						"dcVoltage": "DC voltage:",
+						"stringDisplayName": "String",
+						"tooltip": {
+							"deleteInverter": "Delete inverter",
+							"crealMPPT": "Clear MPPT",
+							"updateWiring": "Update wiring",
+							"linkAll": "Link all available modules",
+							"drawString": "Draw string",
+							"deleteString": "Delete string",
+							"noModuleInInverter": "Inverter has no modules",
+							"noStringInMPPT": "No strings attached to MPPT"
+						},
+						"model": "Model:",
+						"dcPower": "DC Power",
+						"dc/ac": "DC/AC:",
+						"inputDC": "Input DC:",
+						"outputAC": "Output AC:",
+						"numberOfPhases": "Number of phases:",
+						"dcCurrent": "DC Current:"
+					},
+					"generate": "Generate electrical design",
+					"autoGenerate": "Auto generate electrical design"
+				},
+				"label": {
+					"treeObstruction": "Tree obstruction",
+					"alignWithRoof": "Align with roof",
+					"pvModule": "PV Module",
+					"moduleTiltS": "Module Tilt S",
+					"panelRowGap": "Panel row gap",
+					"panelColumnGap": "Panel column gap",
+					"objects": "Objects",
+					"mechanical": "Mechanical",
+					"azimuth": "Azimuth",
+					"selectObject": "Select object",
+					"modulesSelected": "modules selected",
+					"moduleTiltN": "Module Tilt N",
+					"showAddress": "Show address",
+					"onRoof": "on roof",
+					"showOnlyCompatible": "Show only compatible",
+					"advancedSettings": "Advanced settings",
+					"ACDCRatio": "AC/DC Ratio",
+					"autoSnap": "AutoSNAP",
+					"warning": {
+						"cannotBeLessThanSlope": "Module tilt S cannot be less than roof's slope",
+						"roofPlusSlope": "Roof slope + module tilt cannot exceed %% degrees",
+						"slope": "Roof slope cannot exceed 80 degrees"
+					},
+					"typeOfObstacle": "Type of obstacle",
+					"rowSpacing": "Row spacing",
+					"height": "Height",
+					"setback": "Setback",
+					"columnSpacing": "Column spacing",
+					"orientation": "Orientation",
+					"unnamedRoof": "Unnamed Roof",
+					"noObjectSelected": "No object selected",
+					"electrical": "Electrical",
+					"inverter": "Inverter",
+					"tax": "Tax and incentives",
+					"moduleTilt": "Module Tilt",
+					"slope": "Slope",
+					"customerEnergy": "Customer energy consumption",
+					"ort": "ORT",
+					"layout": "Layout",
+					"rackingType": "Racking type",
+					"inverterCount": "Inverter count",
+					"grid": "Grid",
+					"unnamedObstacle": "Obstacle"
+				},
+				"error": {
+					"clearModules": "Cannot clear modules - given object must be a Roof",
+					"loadModules": "Cannot load modules - given object must be a Roof",
+					"createRoofObject": "Cannot create Roof object - provided property is not an object",
+					"createRoofWrongFormat": "Cannot create Roof object - provided property must be an object with [index, name, primitive, height, setback, slope, azimuth] values",
+					"drawRoof": "Cannot draw Roof - map not loaded",
+					"drawObstacle": "Cannot draw Obstacle - map not loaded"
+				},
+				"dropdown": {
+					"label": {
+						"cables": "Cables",
+						"chimney": "Chimney",
+						"roofDrainage": "Roof drainage",
+						"antennas": "Antennas",
+						"pine": "Pine",
+						"palm": "Palm",
+						"ventilation": "Ventilation",
+						"electricalEquipment": "Electrical Equipment",
+						"skylight": "Skylight",
+						"conditioner": "Conditioner",
+						"deciduous": "Deciduous",
+						"layoutComponent": {
+							"noObjects": "No objects loaded"
+						},
+						"wires": "Wires",
+						"general": "General",
+						"HVAC": "HVAC",
+						"fan": "Cables",
+						"mechanicalEquipment": "Mechanical Equipment",
+						"coolingTowers": "Cooling towers",
+						"pipe": "Pipe",
+						"compressor": "Compressor",
+						"spruce": "Spruce"
+					}
+				},
+				"button": {
+					"placeModules": "Place modules"
+				},
+				"layoutMapInvetrer": {
+					"conntectedStrings": "Connected strings",
+					"acCapacity": "AC Capacity:",
+					"inputVoltage": "Input voltage:",
+					"idc": "Idc",
+					"modules": "Modules",
+					"drawString": "Draw string",
+					"linkSelectedModules": "Link selected modules",
+					"voltage": "Voltage",
+					"linkModules": "Link modules",
+					"vdc": "Vdc:",
+					"strings": "Strings",
+					"name": "Name",
+					"inputCurrent": "Input current:",
+					"totalPower": "Total input power:",
+					"AC/DC": "AC/DC"
+				},
+				"layoutGenerateElectricalDesign": {
+					"button": {
+						"generate": "Generate"
+					},
+					"inverterModel": "Inverter model:",
+					"acPower": "AC Power:",
+					"inverterCount": "Inverter count:",
+					"warning2": "unattached modules.",
+					"warning": "%% out of %% modules will be attached to inverters.",
+					"calculate": "Calculating your electrical design options",
+					"error": "System couldn't calculate any electrical design options for your layout.",
+					"AC/DC": "AC/DC"
+				},
+				"layoutMapString": {
+					"current": "Current:",
+					"length": "Wiring length:",
+					"update": "Update wiring",
+					"inverter": "Inverter:",
+					"delete": "Delete",
+					"voltage": "Voltage:"
+				},
+				"versions": {
+					"button": {
+						"cancel": "Cancel",
+						"save": "Save"
+					},
+					"name": "Name:",
+					"description": "Description"
+				},
+				"layoutLayerSection": {
+					"annualSavings": "Annual Savings",
+					"before": "Before:",
+					"tooltip": {
+						"batteryBeta": "Works in beta mode"
+					},
+					"none": "None",
+					"loanTermLength": "Loan term length",
+					"cannotCalculate1": "Cannot calculate savings.",
+					"cannotCalculate2": "Please specify current energy consumption data!",
+					"financingOptionDropdown": {
+						"loan": "Loan",
+						"leas": "Lease",
+						"cash": "Cash"
+					},
+					"years": "Years",
+					"maxSaving": "Max savings",
+					"button": {
+						"exporting": "Exporting...",
+						"specifyEnergy": "Specify energy consumption",
+						"exportExcel": "Export to excel"
+					},
+					"placingModules": "Placing modules...",
+					"monthlyPayment": "Monthly Payment",
+					"annualInterestRate": "Annual interest rate",
+					"downPayment": "Down payment",
+					"after": "After:",
+					"financingOption": "Financing option",
+					"monthlyLease": "Monthly lease rent"
+				},
+				"layoutLayerSelector": {
+					"shading": "Shading",
+					"stringLables": "String labels",
+					"roofSetback": "Roof setbacks",
+					"moduleTiltArrow": "Module tilt arrows",
+					"layers": "Layers",
+					"stringColor": "String module color-coding",
+					"obstacleSetbacks": "Obstacle setbacks"
+				}
+			},
+			"pageInfo": "Project Page",
+			"consumption": {
+				"button": {
+					"upload": "Upload",
+					"calculating": "Calculating",
+					"calculate": "Calculate"
+				},
+				"customFamilySettings": {
+					"button": {
+						"apply": "Apply",
+						"disableSettings": "Disable settings",
+						"applySettings": "Apply settings"
+					},
+					"tooltip": {
+						"disableCusomSettings": "Disable custom settings"
+					},
+					"label": {
+						"senior": "Senior",
+						"nonWorkingInhabitants": "Non-working inhabitants",
+						"children": "Children",
+						"adults": "Adults",
+						"students": "Students",
+						"otherInhabitants": "Other inhabitants",
+						"workingInhabitants": "Working inhabitants"
+					},
+					"title": "Custom family settings"
+				},
+				"hourlyProfile": {
+					"button": {
+						"all": "All",
+						"weekends": "Weekends",
+						"workdays": "Workdays",
+						"winter": "Winter",
+						"allYear": "All year",
+						"summer": "Summer"
+					}
+				},
+				"changeAddress": {
+					"button": {
+						"changeAddress": "Change Address"
+					},
+					"createProject": "Create new project with new address",
+					"doNotDelete": "Without deleting options",
+					"title": "Change Address",
+					"clearAll": "Clear all roofs, obstructions and layouts"
+				},
+				"tooltip": {
+					"area": "Total area of customer's house",
+					"inhabitants": "Number of people leaving in customer's house",
+					"monthlyAverageBill": "Customer's monthly average energy bill",
+					"averageForEntireYear": "View average hourly data for entire year period",
+					"houseType": "Type of property",
+					"monthlyAverageBillCalc": "Calculated monthly average energy bill",
+					"monthlyAverageConsumption": "Calculated monthly average energy consumption",
+					"annualBill": "Calculated annual energy bill",
+					"annualEnergyBill": "Calculated annual energy bill",
+					"averageForSummer": "View average hourly data for summer period",
+					"averageForWinter": "View average hourly data for winter period",
+					"averageForWorkDaysAndWeekEnds": "View average hourly data for both week days and week ends",
+					"averageForWeekEnds": "View average hourly data for week ends",
+					"averageForWorkDays": "View average hourly data for work days",
+					"calculate": "Calculate customer energy consumption"
+				},
+				"section": {
+					"moreSettings": "More settings"
+				},
+				"label": {
+					"totalBathroomArea": "Total electrical heated Area",
+					"inhabitants": "Inhabitants",
+					"monthlyUsage": "Monthly electricity usage",
+					"isDomesticWaterHeating": "Domestic water heating",
+					"electricityRate": "Electricity rate",
+					"customInhabitants": "(Custom Family Profile)",
+					"annualBill": "Annual bill",
+					"averageElectricity1": "According to our calculation average electricity rate in your region is",
+					"averageElectricityMeasurements": "€/kWh",
+					"downloadHourlyData1": "Download hourly data",
+					"houseArea": "House area",
+					"downloadHourlyData2": "Downloading",
+					"averageElectricity2": "Feel free to change it if is not so.",
+					"mainParameters": "Main parameters",
+					"monthlyAverageUsage": "Monthly average usage",
+					"errorCalculating": "Energy bill is not calculated",
+					"isElectricalBathroomHeating": "Electrical floor heating",
+					"downloadTemplate": "Download energy bill template",
+					"monthlyAverageBill": "Monthly average bill",
+					"isColling": "Air conditioning",
+					"houseType": "House type",
+					"monthlyBill": "Monthly average energy bill",
+					"annualUsage": "Annual usage",
+					"hourlyProfile": "Hourly load profile",
+					"dropFile": "Drop file here",
+					"ratesAndBills": "Rates and bills"
+				},
+				"title": "Consumption profile",
+				"error": {
+					"uploadError1": "Upload consumption profile",
+					"uploadError2": "Wrong file selected! You should select a",
+					"systemError": "System error happened. Please send contact our support",
+					"ERROR_INVALID_FILE_FORMAT": "Invalid file format: unsupported number of data columns",
+					"ERROR_INVALID_TIMESTAMP_FORMAT": "Invalid timestamp",
+					"notEnoughParameters": "Error uploading energy usage data. Wrong file format",
+					"uploadError3": "file",
+					"unknown": "Error. Check console for more information",
+					"recalculateEnergyConsumption": "Recalculate Energy Consumption",
+					"success": "update success",
+					"ERROR_INVALID_NUMBER_FORMAT": "Invalid number format",
+					"calculate": "Recalculate Energy Consumption: Cannot calculate energy usage",
+					"updateMonthlyBill": "Update monthly bill or usage"
+				},
+				"projectDetails": {
+					"label": {
+						"address": "Address",
+						"phoneNumber": "Phone number",
+						"latitude": "Latitude:",
+						"name": "Project Name",
+						"customer": "Coordinates",
+						"coordinated": "Coordinates",
+						"longitude": "Longitude:"
+					},
+					"title": "Project Details",
+					"error": {
+						"message": "You should select valid address"
+					}
+				},
+				"graph": {
+					"axis": {
+						"bill": "Bill",
+						"energy": "Energy"
+					}
+				},
+				"option": {
+					"commercial": "Commercial",
+					"residental": "Residential"
+				}
+			},
+			"savings": {
+				"button": {
+					"savePdf": "Get Proposal",
+					"apply": "Apply",
+					"details": "Savings details"
+				},
+				"checkbox": {
+					"applyTaxCredit": "Apply tax credit",
+					"applyRebates": "Apply Rebates",
+					"showRebateInPercents": "Rebate in percents"
+				},
+				"tooltip": {
+					"systemPrice": "Pre-tax system price",
+					"generateProposal": "Generate proposal",
+					"ppw": "System price per watt",
+					"viewDetails": "View economy savings details"
+				},
+				"section": {
+					"moreOptions": "More options"
+				},
+				"details": {
+					"section": {
+						"summary": "Summary",
+						"postSolarEnergyConsumption": "Post-solar energy consumption",
+						"postSolarBill": "Post-solar energy bill",
+						"postSolarSavings": "Post-solar savings"
+					},
+					"label": {
+						"rebates": "Rebates",
+						"averageBillAfterSolar": "Average monthly bill after solar:",
+						"averageMonthlyFeedEarnings": "Average monthly feed-in earnings:",
+						"savings25Years": "Overall savings over 25 years:",
+						"feedSavings1stYear": "1st Year feed-in savings:",
+						"paybackPeriod": "Payback period:",
+						"energyUtilityVsSolar": "Energy consumption from utility vs solar",
+						"energyOffset": "Energy offset",
+						"years": "years",
+						"averageBillSavings": "Average monthly bill savings:",
+						"averageBillBeforeSolar": "Average monthly bill before solar:",
+						"finalSystemPrice": "Final system price:",
+						"systemPrice": "System price:",
+						"annualSavings1stYear": "Annual savings 1st year:",
+						"system": "System Configuration:",
+						"fromSolar": "From Solar",
+						"ppw": "Price per watt:",
+						"averageConsumptionFromUtilityBeforeSolar": "Average monthly energy consumption from utility before solar:",
+						"monthlyEnergyBeforeAndAfterSolar": "Monthly energy bill before and after solar",
+						"feedInTariff": "Feed-in tariff:",
+						"cumulative25Years": "Cumulative savings over 25 years",
+						"averageConsumptionFromUtilityAfterSolar": "Average monthly energy consumption from utility after solar:",
+						"excessEnergy": "Excess energy:",
+						"fromUtility": "From Utility"
+					}
+				},
+				"label": {
+					"calculateFeedInSavings": "Calculate feed-in savings",
+					"priceWithTax": "System price with Tax",
+					"economySavings": "Economy savings",
+					"tax": "Tax",
+					"annualSavingsIn1stYear": "Annual savings in 1st year",
+					"systemPrice": "System price",
+					"finalSystemPrice": "Final system price",
+					"averageMonthlyBillAfterSolar": "Average monthly bill after-solar",
+					"averageMonthlyBillSavings": "Average monthly bill savings",
+					"totalSavingsOver25Years": "Total savings over 25 years",
+					"ppw": "Price per watt",
+					"feedInTariff": "Feed-in tariff",
+					"batteryType": "Battery type",
+					"energyCost": "Energy costs"
+				},
+				"title": "Costs and savings",
+				"error": "At least 1 roof and calculated consumption profile is required!"
+			},
+			"loading": "Please wait. We are loading your project data...",
+			"menu": {
+				"right": {
+					"bom": "Bill of material",
+					"design": "Create/Update project design",
+					"electrical": "Electrical design",
+					"consumption": "Define customer energy consumption",
+					"savings": "Calculate savings and generate proposal",
+					"projectSettings": "Project Settings"
+				}
+			}
+		},
+		"subscription": {
+			"purchaseSubscription": {
+				"button": {
+					"proceed": "PROCEED TO CHECKOUT"
+				},
+				"country": "Country",
+				"billingInfo": "Billing information",
+				"price": "Price per month",
+				"orderInfo": "PVStream Starter / 1 user / Monthly subscription",
+				"vat": "applicable VAT",
+				"paymentMethod": "Payment method",
+				"promoCode": "Apply promocode",
+				"selectCountry": "Select country",
+				"error": {
+					"fillFields": "Fill required fields",
+					"fillAll": "Fill required fields and select a country.",
+					"alreadyActive": "There is an active subscription associated with this email",
+					"selectCountry": "Select a country."
+				},
+				"order": "Purchase your order"
+			},
+			"trialInfo": {
+				"chooseSubscription": {
+					"contactUs": {
+						"label": {
+							"button": "CONTACT SALES",
+							"description": "Design a package that fits your business needs",
+							"letsChat": "Let's chat!",
+							"title": "Enterprise Solution"
+						}
+					},
+					"title": "Choose subscription plan",
+					"pro": {
+						"label": {
+							"button": "CHOOSE STARTER",
+							"subInfo": "/user/mo",
+							"description": "Access a complete platform for PV project Proposal and Electrical design",
+							"title": "PVStream Starter"
+						}
+					}
+				},
+				"header": {
+					"button": {
+						"start": "START TRIAL NOW",
+						"chooseAccount": "Choose other account"
+					},
+					"label": {
+						"oneUser": "One active user",
+						"fullyPlatform": "Fully featured platform",
+						"title": {
+							"tryTrial": "Try PVStream free for 14 days"
+						},
+						"noCreditCard": "No credit card required"
+					}
+				},
+				"includes": {
+					"features": {
+						"proposal": {
+							"title": "Proposal generation",
+							"list": {
+								"shading": "Run shading analysis",
+								"energyConsumption": "Calculate and Analyze customer’s energy consumption",
+								"termSavings": "Calculate short and long term savings for the end-user",
+								"proposalReport": "Generate accurate proposal report within 5 minutes",
+								"meteringData": "Base energy consumption analysis on Net Metering data",
+								"calculateProduction": "Automatically generate optimal PV module layout and calculate energy production"
+							}
+						},
+						"inverterStrings": {
+							"title": "Automatic and manual electrical strings layout",
+							"list": {
+								"bestCombinations": "Analyze, design and calculate best-fitting inverter and string combinations",
+								"attachStrings": "Attach strings to proper inverters",
+								"calculateInverters": "Calculate required inverters & place them",
+								"divideArray": "Divide array on strings",
+								"export": "Export of project design documentation to AutoCAD (DXF) or PDF",
+								"generate": "Generate electrical design within 20 minutes"
+							}
+						},
+						"lead": {
+							"title": "Lead generation",
+							"list": {
+								"feasibility": "Instantly calculate financial feasibility of the projects",
+								"processLead": "Process lead information to generate proposal",
+								"generatingWidgets": "Build interactive lead generating widgets",
+								"leadsOnline": "Capture leads online",
+								"crm": "Export lead information to your existing CRM"
+							}
+						}
+					},
+					"description": "Get 100+ features out of the box with PVStream",
+					"title": "What’s included"
+				}
+			},
+			"paymentSpinner": {
+				"success": {
+					"button": {
+						"proceed": "PROCEED TO DASHBOARD"
+					},
+					"title": "Your purchase completed!"
+				},
+				"loading": {
+					"title": "Processing your payment.."
+				},
+				"error": {
+					"button": {
+						"goBack": "GO BACK"
+					},
+					"title": "Your purchase failed!",
+					"message": "Please try again or contact our support"
+				}
+			}
+		},
+		"login": {
+			"resetPassword": {
+				"button": {
+					"sendRequest": "Send request"
+				},
+				"label": {
+					"passwordReset": "Password has been successfully set!",
+					"requestSent": "Reset password request successfully sent! You will receive further instructions on you email shortly.",
+					"sendRequest": "Send request to reset your password"
+				},
+				"text": {
+					"usernameOrEmail": "Username or email"
+				},
+				"title": "Reset password",
+				"error": {
+					"linkExpired": "Link has been expired"
+				}
+			},
+			"signin": {
+				"button": {
+					"forgotPassword": "Reset password",
+					"signin": "Sign In",
+					"signup": "Sign Up Free"
+				},
+				"text": {
+					"password": "Password",
+					"username": "Username or email"
+				},
+				"label": {
+					"forgotPassword": "Forgot your password?",
+					"signup": "Need to create account?"
+				},
+				"title": "Sign In"
+			},
+			"signup": {
+				"button": {
+					"continue": "Continue",
+					"signin": "Signing up..."
+				},
+				"label": {
+					"rules2": "privacy policy",
+					"rules1": "Signing up for a PVStream account means you agree to the",
+					"resending": "Resending verification link...",
+					"resend": "Resend verification link",
+					"rules4": "terms of use",
+					"signin": "Already have an account?",
+					"rules3": "and",
+					"success1": "Please check inbox to verify email address!",
+					"success2": "We just send you verification link to %% please click the link to verify your email address",
+					"trial": "Get started absolutely free",
+					"noCreditCard": "No credit card needed"
+				},
+				"text": {
+					"companyName": "Company name",
+					"language": "Language",
+					"email": "Work email address"
+				}
+			},
+			"changePassword": {
+				"button": {
+					"change": "Change"
+				},
+				"label": {
+					"new": "Password",
+					"current": "Current password",
+					"newConfirm": "Confirm password",
+					"success": "Password has been successfully changed!"
+				},
+				"title": "Change password"
+			}
+		},
+		"dashboard": {
+			"projects": {
+				"all": {
+					"title": "All projects"
+				},
+				"search": {
+					"title": "Search for project"
+				},
+				"newProject": {
+					"button": "New Project"
+				},
+				"title": "Projects",
+				"error": {
+					"errorDeletingProject": "Error deleting project:"
+				},
+				"recent": {
+					"title": "Recent projects"
+				},
+				"table": {
+					"button": {
+						"newProject": "NEW PROJECT"
+					},
+					"createFirstProject": "Create your first project",
+					"address": "Address",
+					"created": "Created",
+					"name": "Project name",
+					"lastModified": "Last modified",
+					"menu": {
+						"exportMechanical": "Export Mechanical Design",
+						"exportElectrical": "Export Electrical Design",
+						"exportDXF": "Export DXF",
+						"exportProposal": "Export Proposal",
+						"exportSLD": "Export SLD",
+						"delete": {
+							"deleteProject": "Delete project",
+							"dialogs": {
+								"button": {
+									"cancel": "Cancel",
+									"delete": "Delete"
+								},
+								"confirmDeleteTitle": "Delete Project",
+								"confirmDelete": "Do you really want to delete this project?"
+							}
+						}
+					},
+					"customer": "Customer"
+				}
+			},
+			"leads": {
+				"button": {
+					"showRecent": "Show recent",
+					"exportCSV": "Export as .csv"
+				},
+				"searchLeads": "Search Leads",
+				"searching": "Searching",
+				"pageInfo": "Leads Page",
+				"title": "Leads",
+				"recent": {
+					"title": "Recent leads"
+				},
+				"table": {
+					"date": "Date",
+					"monthlyBill": "Monthly bill",
+					"hotLead": "Hot lead",
+					"popup": {
+						"msg": "Do you really want to delete this lead?",
+						"title": "Delete Lead"
+					},
+					"address": "Address",
+					"menu": {
+						"showRecent": "Create project from lead",
+						"delete": "Delete Lead"
+					},
+					"email": "Email",
+					"status": "Status"
+				}
+			},
+			"pageInfo": "Dashboard Page",
+			"header": {
+				"tooltips": {
+					"systemSize": "System size",
+					"moduleCount": "Module count",
+					"tooltip": "System size equal to Total nominal power of all placed PV modules",
+					"warning": "Warning",
+					"totalCount": "Total count of errors and warnings:",
+					"error": {
+						"differentPVModules": "This project has layouts with different types of PVModules"
+					},
+					"annualProduction": "Annual Production",
+					"modules": "modules"
+				}
+			},
+			"title": "Dashboard",
+			"menu": {
+				"settings": "Settings",
+				"projects": "Projects",
+				"myProfile": "My Profile",
+				"leads": "Leads",
+				"signOut": "Sign Out",
+				"account": "Account",
+				"administration": "Administration",
+				"userList": "User List"
+			},
+			"widgets": {
+				"widget": {
+					"widgetLocale": "Widget language",
+					"largeTitle": "Make your energy bills smaller!",
+					"smallTitle": "Calculate savings now!",
+					"availableChar": "Available characters",
+					"select": "Select",
+					"address": "Address",
+					"addName": "Add first name and last name",
+					"addPhoneNumber": "Add phone number",
+					"firstName": "First name",
+					"lastName": "Last name",
+					"phoneNumber": "Phone number",
+					"fillField": "Fill all required fields",
+					"code": {
+						"button": {
+							"copy": "Copy code"
+						},
+						"text": "Place this code inside banner block on your website.",
+						"title": "Widget Embed code."
+					},
+					"enterLocation": "Enter a location",
+					"calculating": "Calculating...",
+					"enterValidEmail": "Enter valid email",
+					"gettingQuote": "Getting a quote...",
+					"widgetTitle": "New widget",
+					"enterValidAddress": "Enter valid address",
+					"button": {
+						"back": "Back to widgets",
+						"getQuote": "Get a quote",
+						"reenterData": "Re-enter data",
+						"calculateSavings": "Calculate Savings"
+					},
+					"monthlyBill": "Monthly energy bill",
+					"perMonth": "/month",
+					"savingsPeriod": "Savings Period",
+					"calculationText": "After installing your saving will be",
+					"successText": "Thank you. <br />We will contact you soon!",
+					"annual": "Annual",
+					"monthly": "Monthly",
+					"calculatingError": "Error calculating savings",
+					"colorScheme": "Color scheme",
+					"email": "Enter your email"
+				},
+				"editWidgets": {
+					"pageInfo": "Edit Widgets Page"
+				},
+				"pageInfo": "Widgets Page",
+				"newWidgets": {
+					"orientation": "Select widget orientation",
+					"color": "Select color theme",
+					"sidebar": "Best for website sidebars",
+					"pageInfo": "New Widgets Page",
+					"back": "Back to widgets",
+					"content": "Best for headers and inside content"
+				},
+				"title": "Widgets",
+				"error": {
+					"getWidget": "Error getting widgets:",
+					"deleteWidget": "Error deleting widget:"
+				},
+				"table": {
+					"nodata": "No widgets",
+					"menu": {
+						"edit": "Edit Widget",
+						"create": "Create Widget",
+						"delete": "Widget Delete Confirmation"
+					}
+				},
+				"dialogs": {
+					"button": {
+						"cancel": "Cancel",
+						"delete": "Delete"
+					},
+					"confirmDelete": "Do you really want to delete this widget?"
+				}
+			}
+		},
+		"endOfSession": {
+			"button": {
+				"continue": "Continue working",
+				"logOut": "Log out now"
+			},
+			"title": "Session end",
+			"message": "You session is about to end. You will be logged out in %% seconds."
+		},
+		"": {
+			"Keys": "Default (en_US)",
+			"localization_en_US_to_fr_FR": "localization_en_US_to_fr_FR"
+		}
+	}
+}
